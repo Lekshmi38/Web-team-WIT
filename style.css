@@ -1,6 +1,6 @@
 /* Intentional Errors: Find and fix them! */
-.container {
-    margin: auto;
+body {
+        background-color: #f0f0f0;}                  .container{  margin: auto;
     padding: 20px;
     background-color: #33cc33;
     border: 2px solid #ff0000;
